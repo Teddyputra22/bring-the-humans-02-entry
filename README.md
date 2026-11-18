@@ -1,8 +1,8 @@
 # Build and enter your first make.fun bounty
 
 [![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02)
-[![rank](https://make.fun/badge/bring-the-humans-02/{{GITHUB_OWNER}}/{{REPOSITORY}}/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
-[![reward](https://make.fun/badge/bring-the-humans-02/{{GITHUB_OWNER}}/{{REPOSITORY}}/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
+[![rank](https://make.fun/badge/bring-the-humans-02/Teddyputra22/bring-the-humans-02-entry/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
+[![reward](https://make.fun/badge/bring-the-humans-02/Teddyputra22/bring-the-humans-02-entry/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
 
 **New to make.fun? Open [https://make.fun/r/q431793e](https://make.fun/r/q431793e) before creating your account to start with this guide’s referral link.**
 
